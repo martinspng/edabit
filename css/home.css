@@ -1,0 +1,36 @@
+.navigation-rhs{
+display: flex;
+justify-content: flex-start;
+gap: 10px;
+height: 45px;
+font-size: 19px;
+padding-left: 45px;
+padding-top: 19px;
+}
+
+.nav-bar{
+display: flex;
+border-bottom: 1px solid grey;
+font-family: Georgia, 'Times New Roman', Times, serif;
+align-items: center;
+}
+
+.navigation-lhs{
+display: flex;
+justify-content: flex-end;
+gap: 10px;
+font-size: 19px;
+padding-left: 1156px;
+word-spacing: 2px;
+
+}
+
+
+
+
+@font-face {
+    font-family: "chathurabold";
+    src: url("../font/chathura_bold_macroman/chachathura-bold-webfont.eot");
+    font-weight: normal;
+    font-style: normal;
+}
